@@ -10,7 +10,7 @@ For details on installing necessary system requirements for `coinbrew`, please c
 
 ## How to use this package
 
-1. Add remote to conan's package [registry.txt](http://docs.conan.io/en/latest/reference/config_files/registry.txt.html):
+1. Add remote to conan's package [remotes](https://docs.conan.io/en/latest/reference/commands/misc/remote.html?highlight=remotes):
 
    ```bash
    $ conan remote add sintef https://api.bintray.com/conan/sintef-ocean/conan
