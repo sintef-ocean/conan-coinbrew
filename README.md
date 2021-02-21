@@ -1,6 +1,4 @@
 [![GCC Conan](https://github.com/sintef-ocean/conan-coinbrew/workflows/GCC%20Conan/badge.svg)](https://github.com/sintef-ocean/conan-coinbrew/actions?query=workflow%3A"GCC+Conan")
-[![Clang Conan](https://github.com/sintef-ocean/conan-coinbrew/workflows/Clang%20Conan/badge.svg)](https://github.com/sintef-ocean/conan-coinbrew/actions?query=workflow%3A"Clang+Conan")
-[![MSVC Conan](https://github.com/sintef-ocean/conan-coinbrew/workflows/MSVC%20Conan/badge.svg)](https://github.com/sintef-ocean/conan-coinbrew/actions?query=workflow%3A"MSVC+Conan")
 [![Download](https://api.bintray.com/packages/sintef-ocean/conan/coinbrew%3Asintef/images/download.svg)](https://bintray.com/sintef-ocean/conan/coinbrew%3Asintef/_latestVersion)
 
 
@@ -47,4 +45,4 @@ For details on installing necessary system requirements for `coinbrew`, please c
 
 ## Known recipe issues
 
-    This recipe does not install the necessary requirements in order for coinbrew to run successfully.
+   This recipe does not install the necessary requirements in order for coinbrew to run successfully.
