@@ -12,7 +12,7 @@ For details on installing necessary system requirements for `coinbrew`, please c
 1. Add remote to conan's package [remotes](https://docs.conan.io/en/latest/reference/commands/misc/remote.html?highlight=remotes):
 
    ```bash
-   $ conan remote add sintef https://conan.sintef.io/public
+   $ conan remote add sintef https://artifactory.smd.sintef.no/artifactory/api/conan/conan-local
    ```
 
 2. Using *conanfile.txt* in your project with *cmake*
